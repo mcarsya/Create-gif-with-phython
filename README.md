@@ -21,3 +21,4 @@ Before running the script, make sure you have:
 ### Install imageio:
 ```bash
 pip install imageio
+
