@@ -22,3 +22,4 @@ Before running the script, make sure you have:
 ```bash
 pip install imageio
 
+
